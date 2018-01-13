@@ -1,0 +1,28 @@
+{
+  "name": "hyperapp-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --color --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konojunya/hyperapp-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konojunya/hyperapp-sample/issues"
+  },
+  "homepage": "https://github.com/konojunya/hyperapp-sample#readme",
+  "dependencies": {
+    "hyperapp": "^1.0.1"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.4.1",
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0"
+  }
+}
